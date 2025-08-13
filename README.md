@@ -24,15 +24,6 @@ The dataset used for this project contains information related to [identifying s
 - Visualized distributions, correlations, and patterns
 - Generated actionable insights and final recommendations
 
-
-## How to Run
-1. Clone this repository
-2. Open the notebook file in Jupyter or VS Code
-3. Run all cells in order to follow the analysis workflow
-
-## Status
-Completed
-
 ## Certificate
 This project is part of the [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 
